@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Před spuštěním nahradit www.DOMENA.cz skutečnou adresou webu. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://www.DOMENA.cz/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-  </url>
+  <url><loc>https://www.kvalitnisvetliky.cz/</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.kvalitnisvetliky.cz/produkty.html</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.kvalitnisvetliky.cz/denni-svetlo-a-zdravi.html</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.kvalitnisvetliky.cz/realizace.html</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.kvalitnisvetliky.cz/poradna.html</loc><lastmod>2026-09-30</lastmod></url>
+  <url><loc>https://www.kvalitnisvetliky.cz/kontakty.html</loc><lastmod>2026-09-30</lastmod></url>
 </urlset>

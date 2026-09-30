@@ -1,19 +1,5 @@
-# LAMILUX · WT - WINDOWS TOMORROW s.r.o.
-# POZOR: dokud web běží jen lokálně, je v index.html meta noindex.
-# Před spuštěním na doméně: smazat noindex v index.html a doplnit
-# skutečnou adresu do řádku Sitemap níže.
-
+# Před spuštěním webu na doméně zároveň smazat meta robots noindex ve všech stránkách.
 User-agent: *
 Allow: /
 
-# vyhledávače s AI (ať web najdou i asistenti)
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-Sitemap: https://www.DOMENA.cz/sitemap.xml
+Sitemap: https://www.kvalitnisvetliky.cz/sitemap.xml
